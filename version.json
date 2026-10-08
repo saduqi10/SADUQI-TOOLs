@@ -1,9 +1,9 @@
 {
-  "version": "1.1",
-  "release_date": "2026-02-15",
-  "url": "https://github.com/saduqi10/SADUQI-TOOLs/releases/download/v1.0/SADUQI_TOOLs_Setup.exe",
-  "sha256": "",
-  "size_mb": 7.5,
-  "changelog": "الإصدار الأول - إضافة نظام التحديث التلقائي",
+  "version": "1.2",
+  "release_date": "2026-02-20",
+  "url": "الرابط_الذي_نسخته_من_v1.1",
+  "sha256": "البصمة_التي_نسختها",
+  "size_mb": 23.8,
+  "changelog": "الإصدار v1.1 - إضافة نظام التحديث التلقائي",
   "mandatory": false
 }
