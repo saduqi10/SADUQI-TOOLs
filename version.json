@@ -2,7 +2,7 @@
   "version": "1.7",
   "release_date": "2026-10-09",
   "url": "https://github.com/saduqi10/SADUQI-TOOLs/releases/download/v1.7/SADUQI_TOOLs_Setup.exe",
-  "sha256": "",
+  "sha256": "5B0ED9FCB0454B3334A81DCCF9801EF5E29FAE7862A475885C578D04",
   "size_mb": 23.77,
   "changelog": "إصلاح مشكلة التحقق من SHA256",
   "mandatory": false
