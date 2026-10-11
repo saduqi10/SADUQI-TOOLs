@@ -1,9 +1,9 @@
 {
-  "version": "1.8",
-  "release_date": "2026-10-09",
-  "url": "https://github.com/saduqi10/SADUQI-TOOLs/releases/download/v1.8/SADUQI_TOOLs_Setup.exe",
-  "sha256": "6A670AC7DC0D5EF5D95374175FB87F404B63867928A4FE0323F86EE4B54",
-  "size_mb": 22.63,
-  "changelog": "تحديث جديد",
+  "version": "1.9.1",
+  "release_date": "2026-10-11",
+  "url": "https://github.com/saduqi10/SADUQI-TOOLs/releases/download/v1.9.1/SADUQI_TOOLs_Setup.exe",
+  "sha256": "F3D9D3603AC3BB56560751488D57988940990507C18BE85C0C56EF0AF4340938",
+  "size_mb": 26.5,
+  "changelog": "دعم أندرويد 7 وأقدم",
   "mandatory": false
 }
