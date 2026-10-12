@@ -1,9 +1,9 @@
 {
-  "version": "1.9.14",
+  "version": "1.9.15",
   "release_date": "2026-10-12",
-  "url": "https://github.com/saduqi10/SADUQI-TOOLs/releases/download/v1.9.14/SADUQI_TOOLs_Setup.exe",
-  "sha256": "d86167beb4ec2724816df5754347711345cab1cfb40861fa2172f616d43b09b4",
+  "url": "https://github.com/saduqi10/SADUQI-TOOLs/releases/download/v1.9.15/SADUQI_TOOLs_Setup.exe",
+  "sha256": "68d09979e7985e3c0301bf002bcd42da175fb6b042fbd1bbdd82c14e03017348",
   "size_mb": 23.74,
-  "changelog": "الإصدار v1.9.14",
+  "changelog": "الإصدار v1.9.15",
   "mandatory": false
 }
